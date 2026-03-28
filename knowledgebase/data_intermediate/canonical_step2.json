@@ -1,0 +1,8525 @@
+[
+  {
+    "hairstyle_id": "crew_cut",
+    "display_name": "Crew Cut",
+    "base_category": "crew",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json",
+      "forteseries.json",
+      "forteseries_data.json",
+      "styleseat.json",
+      "heygoldie.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "textured_fringe",
+    "display_name": "Textured Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "hairstyles_data.json",
+      "forteseries.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "ivy_league",
+    "display_name": "Ivy League",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "hairstyles_data.json",
+      "forteseries.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "messy_crop_top",
+    "display_name": "Messy Crop Top",
+    "base_category": "crop",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "forteseries.json"
+    ]
+  },
+  {
+    "hairstyle_id": "side_part",
+    "display_name": "Side Part",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "heygoldie.json",
+      "forteseries_data.json",
+      "hairstyles_data.json",
+      "forteseries.json"
+    ]
+  },
+  {
+    "hairstyle_id": "french_crop",
+    "display_name": "Textured Crop",
+    "base_category": "crop",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json",
+      "forteseries.json",
+      "forteseries_data.json",
+      "heygoldie.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "tapered",
+    "display_name": "Tapered",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "forteseries.json"
+    ]
+  },
+  {
+    "hairstyle_id": "side_swept_fringe",
+    "display_name": "Side Swept Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "hairstyles_data.json",
+      "forteseries.json"
+    ]
+  },
+  {
+    "hairstyle_id": "spiky",
+    "display_name": "Spiky",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "hairstyles_data.json",
+      "forteseries.json"
+    ]
+  },
+  {
+    "hairstyle_id": "quiff",
+    "display_name": "Quiff",
+    "base_category": "quiff",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "forteseries.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_and_tight",
+    "display_name": "High And Tight",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json",
+      "forteseries_data.json",
+      "forteseries.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "short_curly_cut",
+    "display_name": "Short Curly Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "forteseries.json"
+    ]
+  },
+  {
+    "hairstyle_id": "side_swept",
+    "display_name": "Side Swept",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "hairstyles_data.json",
+      "forteseries.json"
+    ]
+  },
+  {
+    "hairstyle_id": "business_cut",
+    "display_name": "Business Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "forteseries.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "scissor_cut",
+    "display_name": "Scissor Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "forteseries_data.json",
+      "hairstyles_data.json",
+      "forteseries.json"
+    ]
+  },
+  {
+    "hairstyle_id": "brushed_back_hair",
+    "display_name": "Brushed Back Hair",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "upward_styled_cut_with_beard",
+    "display_name": "Upward-Styled Cut With Beard",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_fade",
+    "display_name": "High Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json",
+      "haircuts.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "old_school_comb_over",
+    "display_name": "Old-School Comb-Over",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "undercut_and_ruffled_spikes",
+    "display_name": "Undercut And Ruffled Spikes",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "mini_mohawk_with_shaved_sides",
+    "display_name": "Mini Mohawk With Shaved Sides",
+    "base_category": "mohawk",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "bald_fade_with_full_beard",
+    "display_name": "Bald Fade With Full Beard",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "voluminous_top_with_tapered_sides",
+    "display_name": "Voluminous Top With Tapered Sides",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "pompadour_classic",
+    "display_name": "Classic Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "side_parted_slicked_back_style",
+    "display_name": "Side-Parted Slicked-Back Style",
+    "base_category": "slickback",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "volume_in_the_middle",
+    "display_name": "Volume In The Middle",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "slicked_over_side_part",
+    "display_name": "Slicked Over Side Part",
+    "base_category": "slickback",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "mid_bald_fade",
+    "display_name": "Mid Bald Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "edgy_pompadour",
+    "display_name": "Edgy Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "clean_slicked_back_cut",
+    "display_name": "Clean Slicked Back Cut",
+    "base_category": "slickback",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_fade_with_facial_hair",
+    "display_name": "High Fade With Facial Hair",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "curly_side_parted_pompadour",
+    "display_name": "Curly Side-Parted Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "buzzed_skin_fade",
+    "display_name": "Buzzed Skin Fade",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "razor_fade_pompadour",
+    "display_name": "Razor Fade Pompadour",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "taper_with_rounded_line_up",
+    "display_name": "Taper With Rounded Line-Up",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "tapered_faux_hawk",
+    "display_name": "Tapered Faux Hawk",
+    "base_category": "mohawk",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_fade_military_cut",
+    "display_name": "High Fade Military Cut",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "preppy_quiff",
+    "display_name": "Preppy Quiff",
+    "base_category": "quiff",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "shaved_side_comb_back",
+    "display_name": "Shaved Side Comb-Back",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "hipster_skin_fade_with_beard",
+    "display_name": "Hipster Skin Fade With Beard",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "subtle_tapered_fade",
+    "display_name": "Subtle Tapered Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_skin_fade",
+    "display_name": "High Skin Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "textured_mohawk",
+    "display_name": "Textured Mohawk",
+    "base_category": "mohawk",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_fade_with_shaved_design",
+    "display_name": "High Fade With Shaved Design",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_skin_fade_with_spiked_hair",
+    "display_name": "High Skin Fade With Spiked Hair",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "faded_hawk",
+    "display_name": "Faded Hawk",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "fade_with_hairline_design",
+    "display_name": "Fade With Hairline Design",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "brushed_back_medium_hair",
+    "display_name": "Brushed-Back Medium Hair",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "platinum_ivy_league",
+    "display_name": "Platinum Ivy League",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "gelled_spikes",
+    "display_name": "Gelled Spikes",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "hair_with_bleached_tips",
+    "display_name": "Hair With Bleached Tips",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "modern_caesar_cut",
+    "display_name": "Modern Caesar Cut",
+    "base_category": "crop",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "light_fade",
+    "display_name": "Light Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_fade_with_curly_top",
+    "display_name": "High Fade With Curly Top",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "haircuts.json"
+    ]
+  },
+  {
+    "hairstyle_id": "crop_top",
+    "display_name": "Crop Top",
+    "base_category": "crop",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json"
+    ]
+  },
+  {
+    "hairstyle_id": "slicked_back",
+    "display_name": "Slicked Back",
+    "base_category": "slickback",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "pompadour",
+    "display_name": "Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "wavy_shag",
+    "display_name": "Wavy Shag",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json"
+    ]
+  },
+  {
+    "hairstyle_id": "messy_layered_hair",
+    "display_name": "Messy Layered Hair",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json"
+    ]
+  },
+  {
+    "hairstyle_id": "bro_flow",
+    "display_name": "Bro Flow",
+    "base_category": "broflow",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json"
+    ]
+  },
+  {
+    "hairstyle_id": "messy_textured_medium_cut",
+    "display_name": "Messy Textured Medium Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json"
+    ]
+  },
+  {
+    "hairstyle_id": "angular_fringe",
+    "display_name": "Angular Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "classic_quiff",
+    "display_name": "Classic Quiff",
+    "base_category": "quiff",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json"
+    ]
+  },
+  {
+    "hairstyle_id": "faux_hawk",
+    "display_name": "Faux Hawk",
+    "base_category": "mohawk",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json",
+      "heygoldie.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "regulation_cut",
+    "display_name": "Regulation Cut",
+    "base_category": "regulation",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json",
+      "thevou.json",
+      "hairstyles_data.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "curly_fringe",
+    "display_name": "Curly Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "mop_top",
+    "display_name": "Mop Top",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json"
+    ]
+  },
+  {
+    "hairstyle_id": "choppy_fringe",
+    "display_name": "Choppy Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "hairstyles_data.json"
+    ]
+  },
+  {
+    "hairstyle_id": "buzz_cut_classic",
+    "display_name": "Buzz Cut",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json",
+      "heygoldie.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "slicked_back_undercut",
+    "display_name": "Slicked-Back Undercut",
+    "base_category": "slickback",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "heygoldie.json"
+    ]
+  },
+  {
+    "hairstyle_id": "ivy_league_cut",
+    "display_name": "Ivy League Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "heygoldie.json"
+    ]
+  },
+  {
+    "hairstyle_id": "shaved_head",
+    "display_name": "Shaved Head",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "heygoldie.json"
+    ]
+  },
+  {
+    "hairstyle_id": "short_pompadour",
+    "display_name": "Short Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "heygoldie.json"
+    ]
+  },
+  {
+    "hairstyle_id": "brushed_up_quiff",
+    "display_name": "Brushed-Up Quiff",
+    "base_category": "quiff",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "taper_fade",
+    "display_name": "Taper Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "bald_fade_with_locs",
+    "display_name": "Bald Fade With Locs",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "close_cut",
+    "display_name": "Close Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "mid_fade_with_spiked_hair",
+    "display_name": "Mid Fade With Spiked Hair",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_fade_with_beard",
+    "display_name": "High Fade With Beard",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "short_hair_with_low_taper",
+    "display_name": "Short Hair With Low Taper",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "clean_shave",
+    "display_name": "Clean Shave",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "quiff_with_taper",
+    "display_name": "Quiff With Taper",
+    "base_category": "quiff",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "widows_peak_with_tapered_sides",
+    "display_name": "Widow\u2019S Peak With Tapered Sides",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "low_fade_with_long_top",
+    "display_name": "Low Fade With Long Top",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "butch_cut",
+    "display_name": "Butch Cut",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "long_and_wavy",
+    "display_name": "Long And Wavy",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "pompadour_with_mid_fade",
+    "display_name": "Pompadour With Mid Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "top_knot",
+    "display_name": "Top Knot",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "curly_pompadour",
+    "display_name": "Curly Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "bald_fade_with_crew_cut",
+    "display_name": "Bald Fade With Crew Cut",
+    "base_category": "crew",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "brushed_up_curls",
+    "display_name": "Brushed-Up Curls",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "wavy_and_side_swept",
+    "display_name": "Wavy And Side-Swept",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "slicked_back_with_undercut",
+    "display_name": "Slicked Back With Undercut",
+    "base_category": "slickback",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "mid_fade",
+    "display_name": "Mid Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "hairstyle_id": "skin_fade__high_fade",
+    "display_name": "Skin Fade  (High Fade)",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "bun_fade",
+    "display_name": "Bun Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "taper_fade__tapered",
+    "display_name": "Taper Fade  (Tapered)",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "close_cropped_fade",
+    "display_name": "Close-Cropped Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "comb_over_fade__skin_fade_comb",
+    "display_name": "Comb Over Fade  (Skin Fade Comb)",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "classic_fade",
+    "display_name": "Classic Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "razor_fade",
+    "display_name": "Razor Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "curly_hair_fade",
+    "display_name": "Curly Hair Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "fade_buzz",
+    "display_name": "Fade Buzz",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "slick_back",
+    "display_name": "Slick Back",
+    "base_category": "slickback",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "side_parting",
+    "display_name": "Side Parting",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "shoulder_length",
+    "display_name": "Shoulder Length",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "hi_top_fade",
+    "display_name": "Hi-Top Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "quiff_cut",
+    "display_name": "Quiff Cut",
+    "base_category": "quiff",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "side_fringe",
+    "display_name": "Side Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "straight_fringe",
+    "display_name": "Straight Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "short_fringe",
+    "display_name": "Short Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "long_fringe",
+    "display_name": "Long Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "french_crop_fringe",
+    "display_name": "French Crop Fringe",
+    "base_category": "crop",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "faux_hawk_fringe",
+    "display_name": "Faux Hawk Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "flat_top",
+    "display_name": "Flat Top",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "induction_cut",
+    "display_name": "Induction Cut",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "skater_short",
+    "display_name": "Skater Short",
+    "base_category": "skater",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "skater_long",
+    "display_name": "Skater Long",
+    "base_category": "skater",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "skater_long_curl",
+    "display_name": "Skater Long Curl",
+    "base_category": "skater",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "undercut_skater",
+    "display_name": "Undercut Skater",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "80s_skater",
+    "display_name": "80S Skater",
+    "base_category": "skater",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "90s_skater",
+    "display_name": "90S Skater",
+    "base_category": "skater",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "dreadlocks",
+    "display_name": "Dreadlocks",
+    "base_category": "dreadlocks",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "surfer_cut",
+    "display_name": "Surfer Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "mullet_mohawk",
+    "display_name": "Mullet-Mohawk",
+    "base_category": "mohawk",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "spiky_fade",
+    "display_name": "Spiky Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "spiky_taper",
+    "display_name": "Spiky Taper",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "spiky_long",
+    "display_name": "Spiky Long",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "spiky_faux_hawk",
+    "display_name": "Spiky Faux Hawk",
+    "base_category": "mohawk",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "spiky_pompadour",
+    "display_name": "Spiky Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "single_length",
+    "display_name": "Single-Length",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "wavy_spiky",
+    "display_name": "Wavy Spiky",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "spiky_windswept",
+    "display_name": "Spiky Windswept",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "disconnected_undercut",
+    "display_name": "Disconnected Undercut",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "slick_back_undercut",
+    "display_name": "Slick Back Undercut",
+    "base_category": "slickback",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "side_part_undercut",
+    "display_name": "Side Part Undercut",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "blowout_undercut",
+    "display_name": "Blowout Undercut",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "temple_undercut",
+    "display_name": "Temple Undercut",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "fringe_undercut",
+    "display_name": "Fringe Undercut",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "curly_undercut",
+    "display_name": "Curly Undercut",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "short_undercut",
+    "display_name": "Short Undercut",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "long_undercut",
+    "display_name": "Long Undercut",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "pompadour_undercut",
+    "display_name": "Pompadour Undercut",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "short_butch",
+    "display_name": "Short Butch",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "long_butch",
+    "display_name": "Long Butch",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "fade_butch",
+    "display_name": "Fade Butch",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "shaved_line_butch",
+    "display_name": "Shaved Line Butch",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "classic_edgar",
+    "display_name": "Classic Edgar",
+    "base_category": "edgar",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "wavy_edgar",
+    "display_name": "Wavy Edgar",
+    "base_category": "edgar",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "spiky_edgar",
+    "display_name": "Spiky Edgar",
+    "base_category": "edgar",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "fade_edgar",
+    "display_name": "Fade Edgar",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "short_curtain",
+    "display_name": "Short Curtain",
+    "base_category": "curtain",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "medium_curtain",
+    "display_name": "Medium Curtain",
+    "base_category": "curtain",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "long_curtain",
+    "display_name": "Long Curtain",
+    "base_category": "curtain",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "black_curtain",
+    "display_name": "Black Curtain",
+    "base_category": "curtain",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "messy_curtain",
+    "display_name": "Messy Curtain",
+    "base_category": "curtain",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "wavy_curtain",
+    "display_name": "Wavy Curtain",
+    "base_category": "curtain",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "straight_curtain",
+    "display_name": "Straight Curtain",
+    "base_category": "curtain",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "curly_curtain",
+    "display_name": "Curly Curtain",
+    "base_category": "curtain",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "curly_short",
+    "display_name": "Curly Short",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "curly_long",
+    "display_name": "Curly Long",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_precision_crew_cut",
+    "display_name": "The Precision Crew Cut",
+    "base_category": "crew",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_refined_side_part",
+    "display_name": "The Refined Side Part",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_technical_buzz_cut",
+    "display_name": "The Technical Buzz Cut",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_flow",
+    "display_name": "The Flow",
+    "base_category": "broflow",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_neo_quiff",
+    "display_name": "The Neo-Quiff",
+    "base_category": "quiff",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_undone_pompadour",
+    "display_name": "The Undone Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_short_shag",
+    "display_name": "The Short Shag",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_textured_crop",
+    "display_name": "The Textured Crop",
+    "base_category": "crop",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_center_part",
+    "display_name": "The Center Part",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_mod_cut",
+    "display_name": "The Mod Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_heartthrob",
+    "display_name": "The Heartthrob",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_modern_mullet",
+    "display_name": "The Modern Mullet",
+    "base_category": "mullet",
+    "length_category": "long",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_textured_afro_fade",
+    "display_name": "The Textured Afro Fade",
+    "base_category": "fade",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_curly_top_taper",
+    "display_name": "The Curly Top Taper",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "toppik.json"
+    ]
+  },
+  {
+    "hairstyle_id": "textured_brush_forward",
+    "display_name": "Textured Brush Forward",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "tousled_mid_length_cut",
+    "display_name": "Tousled Mid-Length Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "buzzcut",
+    "display_name": "Buzzcut",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "mens_fringe",
+    "display_name": "Men\u2019S Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "add_a_beard_to_balance_out_your_hair_loss",
+    "display_name": "Add A Beard To Balance Out Your Hair (Loss)",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "hairpieces_and_hair_systems",
+    "display_name": "Hairpieces And Hair Systems",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "mini_pompadour",
+    "display_name": "Mini Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "sleek_straight_hairline_for_afro_hair",
+    "display_name": "Sleek, Straight Hairline For Afro Hair",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "modern_mohawk",
+    "display_name": "Modern Mohawk",
+    "base_category": "mohawk",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "slicked_back_styles",
+    "display_name": "Slicked Back Styles",
+    "base_category": "slickback",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "bleach_blonde",
+    "display_name": "Bleach Blonde",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_caesar_cut_french_crop",
+    "display_name": "The Caesar Cut/French Crop",
+    "base_category": "crop",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_viking_undercut",
+    "display_name": "The Viking Undercut",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_wolf_cut",
+    "display_name": "The Wolf Cut",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "long_crew_cut",
+    "display_name": "Long Crew Cut",
+    "base_category": "crew",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_faux_hawk",
+    "display_name": "The Faux Hawk",
+    "base_category": "mohawk",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "centre_parting_with_curtain_fringe",
+    "display_name": "Centre Parting With Curtain Fringe",
+    "base_category": "fringe",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "side_parted_undercut_with_long_hair",
+    "display_name": "Side-Parted Undercut With Long Hair",
+    "base_category": "undercut",
+    "length_category": "short",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "the_jude_law",
+    "display_name": "The Jude Law",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "combover",
+    "display_name": "Combover",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "high_pompadour",
+    "display_name": "High Pompadour",
+    "base_category": "pompadour",
+    "length_category": "medium",
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  },
+  {
+    "hairstyle_id": "tight_s",
+    "display_name": "Tight S",
+    "base_category": "other",
+    "length_category": null,
+    "compatibility": {
+      "face_shape": {
+        "oval": 0.5,
+        "round": 0.5,
+        "square": 0.5,
+        "rectangle": 0.5,
+        "diamond": 0.5,
+        "heart": 0.5,
+        "triangle": 0.5
+      },
+      "texture": {
+        "straight": 0.5,
+        "wavy": 0.5,
+        "curly": 0.5,
+        "coily": 0.5
+      }
+    },
+    "hair_loss_support": {
+      "supports_receding_hairline": false,
+      "supports_crown_thinning": false,
+      "norwood_supported": [
+        1,
+        2,
+        3
+      ]
+    },
+    "density_support": [
+      "medium"
+    ],
+    "adds_volume": false,
+    "reduces_bulk": false,
+    "maintenance_level": "medium",
+    "hard_constraints": {},
+    "penalty_rules": [],
+    "sources": [
+      "wimpoleclinic.json"
+    ]
+  }
+]
