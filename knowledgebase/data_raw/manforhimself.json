@@ -1,0 +1,251 @@
+[
+  {
+    "image": {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "robert-pattinson-textured-crop-man-for-himself-ft",
+      "credit": "Francois Durand/Getty Images"
+    },
+    "title": {
+      "index": 1,
+      "name": "The Textured Crop",
+      "tagline": "Effortless and Edgy"
+    },
+    "description": {
+      "what_is_it": "The textured crop is a modern, versatile haircut featuring choppy, layered sections on top, paired with slightly shorter or tapered sides. Its slightly undone look makes it ideal for men seeking a style that balances polish and effortlessness. The hallmark of this cut is its adaptability, making it suitable for a variety of hair types, including straight, wavy, and even Afro-textured hair when modified.",
+      "why_trending": "The textured crop has gained popularity because of its low-maintenance appeal. In an age where men are busier than ever, this style offers a fuss-free solution that still looks sharp. It also aligns with current trends favouring natural texture and movement over overly styled or rigid looks. Influences from social media and TV characters, like Cillian Murphy in Peaky Blinders, have solidified the textured crop’s spot as a top choice for modern men."
+    },
+    "celebrity_inspiration": [
+      {
+        "name": "Robert Pattinson’s",
+        "description": "(pictured) textured crop is effortlessly cool, combining rugged charm with understated sophistication. This versatile cut, with its choppy layers and natural finish, highlights his strong features while maintaining a relaxed, low-maintenance vibe.",
+        "is_pictured": true
+      },
+      {
+        "name": "Tom Holland",
+        "description": "often sports a short, textured crop that perfectly frames his face and enhances his youthful charm.",
+        "is_pictured": false
+      },
+      {
+        "name": "Ryan Reynold’s",
+        "description": "textured crew cut is a go-to, striking the perfect balance between polished and casual.",
+        "is_pictured": false
+      }
+    ],
+    "how_to_style": [
+      "Use a matte clay or texture powder for a tousled look.",
+      "For more polish, twist small sections of hair to enhance texture."
+    ],
+    "face_shape": {
+      "best_for": [
+        "Oval",
+        "Square",
+        "Diamond"
+      ]
+    },
+    "barber_request": "“I’d like a textured crop with choppy layers on top and shorter sides. Can we keep it natural but not messy?”",
+    "hair_type_notes": {
+      "asian_hair": {
+        "description": "Asian hair is often straight and thick, which works perfectly for the textured crop. The choppy layers add movement and dimension, preventing the hair from looking too flat or heavy.",
+        "styling_tip": "Use a light matte clay to keep the layers defined without weighing them down."
+      },
+      "afro_hair": {
+        "description": "Afro-textured hair naturally has volume and texture, making the textured crop a standout choice. A shorter, more defined version works particularly well, focusing on creating sharp edges around the hairline for a modern look.",
+        "styling_tip": "Use a soft-hold cream or pomade to define curls and maintain moisture."
+      }
+    }
+  },
+  {
+    "image": {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "Jung-Kook-Mens-Hairstyles-BTS-Man-For-Himself",
+      "credit": "Jason Mendez / Getty Images"
+    },
+    "title": {
+      "index": 2,
+      "name": "The Flow",
+      "tagline": "Longer Lengths with Natural Movement"
+    },
+    "description": {
+      "what_is_it": "The Flow is all about embracing natural length with minimal effort. Think loose, pushed-back hair that flows freely while still looking refined. This style focuses on achieving a laid-back, carefree appearance with a polished finish, blending longer lengths with natural texture and subtle movement. It’s versatile, with the option to slick it back or let it cascade naturally.",
+      "why_trending": "As men lean towards more relaxed grooming styles, The Flow offers an approachable yet stylish alternative to highly structured looks. Social media icons and celebrities like Jared Leto and Jung Jook have championed this aesthetic, showcasing how length and movement can exude confidence without appearing overly styled. It’s the perfect balance of cool and casual, fitting the zeitgeist of 2025’s low-maintenance trends.The Flow offers timeless sophistication while embracing a natural, undone texture. With longer lengths worn pushed back or down, framing the face, it’s easy-going yet undeniably stylish—ideal for guys looking for effortless charm."
+    },
+    "celebrity_inspiration": [
+      {
+        "name": "Jung Kook’s",
+        "description": "(pictured) flowing hairstyle is the epitome of laid-back elegance. Whether performing solo or in BTS, his look effortlessly blends natural texture with a polished edge.",
+        "is_pictured": true
+      },
+      {
+        "name": "Dev Patel",
+        "description": "blending length with texture for a polished yet relaxed look.",
+        "is_pictured": false
+      },
+      {
+        "name": "Jared Leto",
+        "description": "A style chameleon, often wearing his hair in a pushed-back, wavy flow.",
+        "is_pictured": false
+      }
+    ],
+    "how_to_style": [
+      "Use a lightweight cream for control and definition, paired with a texture spray for natural movement. Finger-comb the hair back or tease down over the face. Let it dry naturally or use a diffuser for soft waves."
+    ],
+    "face_shape": {
+      "best_for": [
+        "Oval and Square"
+      ]
+    },
+    "barber_request": "“Can you leave my hair longer on top and at the sides, shaping it so it can flow naturally when pushed back?”",
+    "hair_type_notes": {
+      "asian_hair": {
+        "description": "The Flow works beautifully with straight, thick hair textures. Keep the sides layered for a softer silhouette, and maintain length at the top for effortless styling.",
+        "styling_tip": "Apply a lightweight cream to prevent frizz and enhance shine."
+      },
+      "afro_hair": {
+        "description": "This look can be adapted for Afro-textured hair by creating soft twists or defined curls that frame the face while maintaining a flowing length.",
+        "styling_tip": "Use a leave-in conditioner to enhance texture and add a curl-defining cream for movement."
+      }
+    }
+  },
+  {
+    "image": {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "pedro-pascal-neo-quiff-man-for-himself-ft",
+      "credit": "Gareth Cattermole/Getty Images"
+    },
+    "title": {
+      "index": 3,
+      "name": "The Neo-Quiff",
+      "tagline": "Refined Volume with a Contemporary Edge"
+    },
+    "description": {
+      "what_is_it": "The Neo-Quiff is a fresh take on the classic quiff, blending timeless volume with layered textures and a softer silhouette. Unlike the traditional quiff, which can appear overly stiff, the Neo-Quiff incorporates modern elements such as looser styling and a slightly dishevelled finish for a more natural vibe.",
+      "why_trending": "The Neo-Quiff strikes the perfect balance between professionalism and laid-back cool, making it a favourite among young professionals. This style works well for various occasions, seamlessly transitioning from the office to social gatherings. Men are also drawn to its versatility—it can be styled for a clean-cut appearance or given a more relaxed touch for casual settings. Celebrities like Paul Mescal have been seen sporting this look, further cementing its relevance."
+    },
+    "celebrity_inspiration": [
+      {
+        "name": "Pedro Pascal",
+        "description": "(pictured), whose effortless charm perfectly captures this look.",
+        "is_pictured": true
+      }
+    ],
+    "how_to_style": [
+      "Blow-dry damp hair upwards with a volumising mousse and shape it with a light paste."
+    ],
+    "face_shape": {
+      "best_for": [
+        "Oval",
+        "Rectangle",
+        "Diamond"
+      ]
+    },
+    "barber_request": "“Can we create a quiff with softer edges and layered texture for a modern finish?”",
+    "hair_type_notes": {
+      "asian_hair": {
+        "description": "Asian hair can achieve a stunning Neo-Quiff by focusing on volume at the front. A layered approach softens the structure, making it look natural and contemporary.",
+        "styling_tip": "Use a volumising mousse and a blow-dryer to create lift at the roots, finishing with a lightweight styling cream."
+      },
+      "afro_hair": {
+        "description": "Afro hair can achieve a quiff-like style by concentrating volume at the crown and defining the natural curl pattern. Tapered or faded sides enhance the overall look.",
+        "styling_tip": "A defining cream or gel can help shape the quiff while keeping curls hydrated and in place."
+      }
+    }
+  },
+  {
+    "image": {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "chris-hemsworth-pompadour-man-for-himself-ft",
+      "credit": "Samir Hussein/Getty Images"
+    },
+    "title": {
+      "index": 4,
+      "name": "The Undone Pompadour",
+      "tagline": "Structured Yet Relaxed"
+    },
+    "description": {
+      "what_is_it": "This modernised version of the classic pompadour keeps the signature volume but dials back the polished, high-maintenance finish. The Undone Pompadour embraces a slightly tousled look, making it approachable while still exuding confidence and style.",
+      "why_trending": "Men in 2025 are embracing styles that are less about perfection and more about personality. The Undone Pompadour delivers just that—it retains the statement-making volume of the original but adds a contemporary, lived-in feel. This makes it particularly popular among creative professionals and men looking for a standout hairstyle that doesn’t feel overly formal. Celebrities like Chris Hemsworth have showcased how this look can bridge casual and professional settings with ease."
+    },
+    "celebrity_inspiration": [
+      {
+        "name": "Chris Hemsworth",
+        "description": "(pictured) for a slightly tousled, voluminous look.",
+        "is_pictured": true
+      }
+    ],
+    "how_to_style": [
+      "Start with a light mousse, blow-dry upwards, and use a medium-hold clay for shape. Tousle the top gently for that relaxed finish."
+    ],
+    "face_shape": {
+      "best_for": [
+        "Square",
+        "Oval",
+        "Triangle"
+      ]
+    },
+    "barber_request": "“I’d like a pompadour with volume but a softer, more relaxed finish.”",
+    "hair_type_notes": {
+      "asian_hair": {
+        "description": "The undone pompadour works brilliantly with Asian hair by combining the natural thickness with a softer, tousled look.",
+        "styling_tip": "Use a medium-hold pomade to shape the pomp, then finger-style the top for a relaxed finish."
+      },
+      "afro_hair": {
+        "description": "Afro-textured hair can rock this look by adding height and shape to the top while keeping the sides neatly tapered or faded.",
+        "styling_tip": "Use a lightweight gel to sculpt the pomp, focusing on height and structure."
+      }
+    }
+  },
+  {
+    "image": {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "shawn-mendes-short-shag-man-for-himself-ft",
+      "credit": "Anthony Devlin/Getty Images for Paramount"
+    },
+    "title": {
+      "index": 5,
+      "name": "The Short Shag",
+      "tagline": "Textured and Full of Character"
+    },
+    "description": {
+      "what_is_it": "The short shag brings layers, texture, and a rock-and-roll attitude to men’s hairstyles. It’s particularly well-suited for wavy or curly hair, allowing natural movement to shine. This style is characterised by its relaxed, almost “unstyled” appearance, achieved through strategic layering and thoughtful use of styling products.",
+      "why_trending": "As men lean towards styles that reflect individuality, the short shag has become a go-to for those who want something unique yet wearable. Its versatility and low-maintenance appeal resonate with men who prefer a more laid-back, effortlessly cool look. Popular among musicians and actors, the short shag fits perfectly with the 2025 trend of celebrating texture and movement. Celebrities like Shaun Mendes, Jacob Elordi and Spike Fearn have embraced versions of this look, making it a popular choice for men looking to break away from conventional cuts."
+    },
+    "celebrity_inspiration": [
+      {
+        "name": "Spike Fearn",
+        "description": "whose carefree yet intentional look defines this cut.",
+        "is_pictured": false
+      },
+      {
+        "name": "Shawn Mendes",
+        "description": "(pictured) gives a contemporary and stylish take on the classic shag, adapted to suit his curly hair texture.",
+        "is_pictured": true
+      },
+      {
+        "name": "Jacob Elordi",
+        "description": "gives a more polished and versatile take on the traditional shag, perfect for formal settings while maintaining an effortless vibe.",
+        "is_pictured": false
+      }
+    ],
+    "how_to_style": [
+      "Use a curl cream or lightweight gel for definition. Let it air dry or diffuse for added volume."
+    ],
+    "face_shape": {
+      "best_for": [
+        "Round",
+        "Oval",
+        "Rectangle"
+      ]
+    },
+    "barber_request": "“I’m after a short shag with layers to enhance my natural texture.”",
+    "hair_type_notes": {
+      "asian_hair": {
+        "description": "The short shag can add character to fine or straight Asian hair by introducing layers and texture. This style is perfect for adding volume and movement.",
+        "styling_tip": "Apply a texturising spray and let the hair air-dry for a natural, effortless finish."
+      },
+      "afro_hair": {
+        "description": "The short shag pairs beautifully with natural curls or coils, enhancing texture and volume for a relaxed, carefree vibe.",
+        "styling_tip": "Use a curl-enhancing cream to define layers and maintain softness."
+      }
+    }
+  }
+]
