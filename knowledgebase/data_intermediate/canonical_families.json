@@ -1,0 +1,408 @@
+[
+  {
+    "family_id": "crew_cut",
+    "variants": [
+      "crew_cut",
+      "bald_fade_with_crew_cut",
+      "the_precision_crew_cut",
+      "long_crew_cut"
+    ],
+    "sources": [
+      "heygoldie.json",
+      "hairstyles_data.json",
+      "thevou.json",
+      "wimpoleclinic.json",
+      "toppik.json",
+      "forteseries.json",
+      "styleseat.json",
+      "forteseries_data.json"
+    ]
+  },
+  {
+    "family_id": "fringe",
+    "variants": [
+      "textured_fringe",
+      "side_swept_fringe",
+      "angular_fringe",
+      "curly_fringe",
+      "choppy_fringe",
+      "side_fringe",
+      "straight_fringe",
+      "short_fringe",
+      "long_fringe",
+      "faux_hawk_fringe",
+      "fringe_undercut",
+      "mens_fringe",
+      "centre_parting_with_curtain_fringe"
+    ],
+    "sources": [
+      "hairstyles_data.json",
+      "wimpoleclinic.json",
+      "thevou.json",
+      "forteseries.json",
+      "forteseries_data.json"
+    ]
+  },
+  {
+    "family_id": "other",
+    "variants": [
+      "ivy_league",
+      "side_part",
+      "tapered",
+      "spiky",
+      "high_and_tight",
+      "short_curly_cut",
+      "side_swept",
+      "business_cut",
+      "scissor_cut",
+      "brushed_back_hair",
+      "upward_styled_cut_with_beard",
+      "old_school_comb_over",
+      "voluminous_top_with_tapered_sides",
+      "volume_in_the_middle",
+      "taper_with_rounded_line_up",
+      "shaved_side_comb_back",
+      "brushed_back_medium_hair",
+      "platinum_ivy_league",
+      "gelled_spikes",
+      "hair_with_bleached_tips",
+      "wavy_shag",
+      "messy_layered_hair",
+      "messy_textured_medium_cut",
+      "mop_top",
+      "ivy_league_cut",
+      "shaved_head",
+      "close_cut",
+      "short_hair_with_low_taper",
+      "clean_shave",
+      "widows_peak_with_tapered_sides",
+      "long_and_wavy",
+      "top_knot",
+      "brushed_up_curls",
+      "wavy_and_side_swept",
+      "side_parting",
+      "shoulder_length",
+      "flat_top",
+      "surfer_cut",
+      "spiky_taper",
+      "spiky_long",
+      "single_length",
+      "wavy_spiky",
+      "spiky_windswept",
+      "curly_short",
+      "curly_long",
+      "the_refined_side_part",
+      "the_short_shag",
+      "the_center_part",
+      "the_mod_cut",
+      "the_heartthrob",
+      "the_curly_top_taper",
+      "textured_brush_forward",
+      "tousled_mid_length_cut",
+      "add_a_beard_to_balance_out_your_hair_loss",
+      "hairpieces_and_hair_systems",
+      "sleek_straight_hairline_for_afro_hair",
+      "bleach_blonde",
+      "the_wolf_cut",
+      "the_jude_law",
+      "combover",
+      "tight_s"
+    ],
+    "sources": [
+      "heygoldie.json",
+      "haircuts.json",
+      "hairstyles_data.json",
+      "thevou.json",
+      "wimpoleclinic.json",
+      "toppik.json",
+      "forteseries.json",
+      "styleseat.json",
+      "forteseries_data.json"
+    ]
+  },
+  {
+    "family_id": "crop",
+    "variants": [
+      "messy_crop_top",
+      "french_crop",
+      "modern_caesar_cut",
+      "crop_top",
+      "french_crop_fringe",
+      "the_textured_crop",
+      "the_caesar_cut_french_crop"
+    ],
+    "sources": [
+      "heygoldie.json",
+      "haircuts.json",
+      "hairstyles_data.json",
+      "thevou.json",
+      "wimpoleclinic.json",
+      "forteseries.json",
+      "toppik.json",
+      "forteseries_data.json"
+    ]
+  },
+  {
+    "family_id": "quiff",
+    "variants": [
+      "quiff",
+      "preppy_quiff",
+      "classic_quiff",
+      "brushed_up_quiff",
+      "quiff_with_taper",
+      "quiff_cut",
+      "the_neo_quiff"
+    ],
+    "sources": [
+      "haircuts.json",
+      "hairstyles_data.json",
+      "wimpoleclinic.json",
+      "thevou.json",
+      "toppik.json",
+      "forteseries.json",
+      "styleseat.json",
+      "forteseries_data.json"
+    ]
+  },
+  {
+    "family_id": "fade",
+    "variants": [
+      "high_fade",
+      "bald_fade_with_full_beard",
+      "mid_bald_fade",
+      "high_fade_with_facial_hair",
+      "razor_fade_pompadour",
+      "high_fade_military_cut",
+      "hipster_skin_fade_with_beard",
+      "subtle_tapered_fade",
+      "high_skin_fade",
+      "high_fade_with_shaved_design",
+      "high_skin_fade_with_spiked_hair",
+      "faded_hawk",
+      "fade_with_hairline_design",
+      "light_fade",
+      "high_fade_with_curly_top",
+      "taper_fade",
+      "bald_fade_with_locs",
+      "mid_fade_with_spiked_hair",
+      "high_fade_with_beard",
+      "low_fade_with_long_top",
+      "pompadour_with_mid_fade",
+      "mid_fade",
+      "skin_fade__high_fade",
+      "bun_fade",
+      "taper_fade__tapered",
+      "close_cropped_fade",
+      "comb_over_fade__skin_fade_comb",
+      "classic_fade",
+      "razor_fade",
+      "curly_hair_fade",
+      "hi_top_fade",
+      "spiky_fade",
+      "fade_edgar",
+      "the_textured_afro_fade"
+    ],
+    "sources": [
+      "haircuts.json",
+      "wimpoleclinic.json",
+      "thevou.json",
+      "toppik.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "family_id": "undercut",
+    "variants": [
+      "undercut_and_ruffled_spikes",
+      "undercut_skater",
+      "disconnected_undercut",
+      "side_part_undercut",
+      "blowout_undercut",
+      "temple_undercut",
+      "curly_undercut",
+      "short_undercut",
+      "long_undercut",
+      "the_viking_undercut",
+      "side_parted_undercut_with_long_hair"
+    ],
+    "sources": [
+      "haircuts.json",
+      "wimpoleclinic.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "family_id": "mohawk",
+    "variants": [
+      "mini_mohawk_with_shaved_sides",
+      "tapered_faux_hawk",
+      "textured_mohawk",
+      "faux_hawk",
+      "mullet_mohawk",
+      "spiky_faux_hawk",
+      "modern_mohawk",
+      "the_faux_hawk"
+    ],
+    "sources": [
+      "heygoldie.json",
+      "haircuts.json",
+      "hairstyles_data.json",
+      "thevou.json",
+      "wimpoleclinic.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "family_id": "pompadour",
+    "variants": [
+      "pompadour_classic",
+      "edgy_pompadour",
+      "curly_side_parted_pompadour",
+      "pompadour",
+      "short_pompadour",
+      "curly_pompadour",
+      "spiky_pompadour",
+      "pompadour_undercut",
+      "the_undone_pompadour",
+      "mini_pompadour",
+      "high_pompadour"
+    ],
+    "sources": [
+      "heygoldie.json",
+      "haircuts.json",
+      "hairstyles_data.json",
+      "thevou.json",
+      "wimpoleclinic.json",
+      "toppik.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "family_id": "slick_back",
+    "variants": [
+      "side_parted_slicked_back_style",
+      "slicked_over_side_part",
+      "clean_slicked_back_cut",
+      "slicked_back",
+      "slicked_back_undercut",
+      "slicked_back_with_undercut",
+      "slick_back",
+      "slick_back_undercut",
+      "slicked_back_styles"
+    ],
+    "sources": [
+      "heygoldie.json",
+      "haircuts.json",
+      "hairstyles_data.json",
+      "thevou.json",
+      "wimpoleclinic.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "family_id": "buzz",
+    "variants": [
+      "buzzed_skin_fade",
+      "buzz_cut_classic",
+      "butch_cut",
+      "fade_buzz",
+      "induction_cut",
+      "short_butch",
+      "long_butch",
+      "fade_butch",
+      "shaved_line_butch",
+      "the_technical_buzz_cut",
+      "buzzcut"
+    ],
+    "sources": [
+      "heygoldie.json",
+      "haircuts.json",
+      "thevou.json",
+      "wimpoleclinic.json",
+      "toppik.json",
+      "styleseat.json"
+    ]
+  },
+  {
+    "family_id": "bro_flow",
+    "variants": [
+      "bro_flow",
+      "the_flow"
+    ],
+    "sources": [
+      "toppik.json",
+      "hairstyles_data.json"
+    ]
+  },
+  {
+    "family_id": "regulation_cut",
+    "variants": [
+      "regulation_cut"
+    ],
+    "sources": [
+      "styleseat.json",
+      "hairstyles_data.json",
+      "wimpoleclinic.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "family_id": "skater",
+    "variants": [
+      "skater_short",
+      "skater_long",
+      "skater_long_curl",
+      "80s_skater",
+      "90s_skater"
+    ],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "family_id": "dreadlocks",
+    "variants": [
+      "dreadlocks"
+    ],
+    "sources": [
+      "wimpoleclinic.json",
+      "thevou.json"
+    ]
+  },
+  {
+    "family_id": "edgar",
+    "variants": [
+      "classic_edgar",
+      "wavy_edgar",
+      "spiky_edgar"
+    ],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "family_id": "curtain",
+    "variants": [
+      "short_curtain",
+      "medium_curtain",
+      "long_curtain",
+      "black_curtain",
+      "messy_curtain",
+      "wavy_curtain",
+      "straight_curtain",
+      "curly_curtain"
+    ],
+    "sources": [
+      "thevou.json"
+    ]
+  },
+  {
+    "family_id": "mullet",
+    "variants": [
+      "the_modern_mullet"
+    ],
+    "sources": [
+      "toppik.json"
+    ]
+  }
+]
