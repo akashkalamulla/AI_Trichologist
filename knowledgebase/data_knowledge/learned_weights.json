@@ -1,0 +1,23 @@
+{
+  "round_curly_medium__crew_cut": {
+    "boost": 0.1,
+    "count": 2,
+    "avg_rating": 4.0,
+    "style_id": "crew_cut",
+    "profile_key": "round_curly_medium"
+  },
+  "oval_curly_medium__crew_cut": {
+    "boost": 0.15,
+    "count": 5,
+    "avg_rating": 3.6,
+    "style_id": "crew_cut",
+    "profile_key": "oval_curly_medium"
+  },
+  "oval_wavy_medium__crew_cut": {
+    "boost": 0.0,
+    "count": 1,
+    "avg_rating": 3.0,
+    "style_id": "crew_cut",
+    "profile_key": "oval_wavy_medium"
+  }
+}
