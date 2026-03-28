@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-02-20T16:51:48.764845",
+  "pipeline_version": "v1.1.0",
+  "total_styles": 197,
+  "deterministic_count": 98,
+  "llm_count": 99,
+  "base_distribution": {
+    "crew": 10,
+    "fringe": 10,
+    "crop": 9,
+    "side_part": 7,
+    "other": 32,
+    "quiff": 11,
+    "business": 1,
+    "slick_back": 7,
+    "fade": 34,
+    "undercut": 16,
+    "mohawk": 8,
+    "pompadour": 11,
+    "buzz": 12,
+    "long_flow": 5,
+    "shaved": 2,
+    "skater": 5,
+    "dreadlocks": 1,
+    "mullet": 2,
+    "edgar": 3,
+    "curtain": 10,
+    "afro": 1
+  },
+  "length_distribution": {
+    "short": 119,
+    "medium": 45,
+    "ultra_short": 15,
+    "long": 18
+  }
+}
