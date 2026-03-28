@@ -1,0 +1,864 @@
+[
+  {
+    "base_category": "buzz",
+    "face_shape": {
+      "oval": 0.7,
+      "round": 0.6,
+      "square": 0.7,
+      "rectangle": 0.6,
+      "diamond": 0.6,
+      "heart": 0.6,
+      "triangle": 0.5
+    },
+    "texture": {
+      "straight": 0.8,
+      "wavy": 0.8,
+      "curly": 0.7,
+      "coily": 0.7
+    },
+    "density": {
+      "low": 0.9,
+      "medium": 0.7,
+      "high": 0.6
+    },
+    "hair_loss": {
+      "receding_hairline": 0.9,
+      "crown_thinning": 0.9,
+      "norwood": {
+        "1": 0.6,
+        "2": 0.7,
+        "3": 0.8,
+        "4": 0.9,
+        "5": 0.9
+      }
+    },
+    "maintenance": 0.2,
+    "effects": [
+      "minimal",
+      "clean",
+      "low-maintenance",
+      "practical"
+    ]
+  },
+  {
+    "base_category": "crew",
+    "face_shape": {
+      "oval": 0.9,
+      "round": 0.8,
+      "square": 0.9,
+      "rectangle": 0.8,
+      "diamond": 0.7,
+      "heart": 0.7,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.8,
+      "curly": 0.6,
+      "coily": 0.4
+    },
+    "density": {
+      "low": 0.6,
+      "medium": 0.9,
+      "high": 0.8
+    },
+    "hair_loss": {
+      "receding_hairline": 0.8,
+      "crown_thinning": 0.8,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.8,
+        "3": 0.4,
+        "4": 0.1,
+        "5": 0
+      }
+    },
+    "maintenance": 0.3,
+    "effects": [
+      "classic",
+      "tidy",
+      "professional",
+      "versatile"
+    ]
+  },
+  {
+    "base_category": "crop",
+    "face_shape": {
+      "oval": 0.8,
+      "round": 0.9,
+      "square": 0.8,
+      "rectangle": 0.7,
+      "diamond": 0.7,
+      "heart": 0.8,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.8,
+      "wavy": 0.9,
+      "curly": 0.7,
+      "coily": 0.5
+    },
+    "density": {
+      "low": 0.5,
+      "medium": 0.9,
+      "high": 0.8
+    },
+    "hair_loss": {
+      "receding_hairline": 0.9,
+      "crown_thinning": 0,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.9,
+        "3": 0.6,
+        "4": 0.2,
+        "5": 0
+      }
+    },
+    "maintenance": 0.6,
+    "effects": [
+      "modern",
+      "textured",
+      "edgy",
+      "stylish"
+    ]
+  },
+  {
+    "base_category": "fade",
+    "face_shape": {
+      "oval": 0.9,
+      "round": 0.8,
+      "square": 0.9,
+      "rectangle": 0.8,
+      "diamond": 0.8,
+      "heart": 0.8,
+      "triangle": 0.7
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.9,
+      "curly": 0.9,
+      "coily": 0.9
+    },
+    "density": {
+      "low": 0.7,
+      "medium": 0.9,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.8,
+        "3": 0.5,
+        "4": 0.2,
+        "5": 0.1
+      }
+    },
+    "maintenance": 0.8,
+    "effects": [
+      "sharp",
+      "clean",
+      "modern",
+      "polished",
+      "high contrast"
+    ]
+  },
+  {
+    "base_category": "undercut",
+    "face_shape": {
+      "oval": 0.8,
+      "round": 0.7,
+      "square": 0.8,
+      "rectangle": 0.8,
+      "diamond": 0.7,
+      "heart": 0.7,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.8,
+      "curly": 0.6,
+      "coily": 0.4
+    },
+    "density": {
+      "low": 0.5,
+      "medium": 0.8,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.7,
+        "3": 0.3,
+        "4": 0.1,
+        "5": 0
+      }
+    },
+    "maintenance": 0.7,
+    "effects": [
+      "edgy",
+      "bold",
+      "high contrast",
+      "modern"
+    ]
+  },
+  {
+    "base_category": "quiff",
+    "face_shape": {
+      "oval": 0.9,
+      "round": 0.8,
+      "square": 0.8,
+      "rectangle": 0.9,
+      "diamond": 0.7,
+      "heart": 0.8,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.9,
+      "curly": 0.6,
+      "coily": 0.3
+    },
+    "density": {
+      "low": 0.4,
+      "medium": 0.8,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.6,
+        "3": 0.2,
+        "4": 0.1,
+        "5": 0
+      }
+    },
+    "maintenance": 0.7,
+    "effects": [
+      "voluminous",
+      "stylish",
+      "classic",
+      "confident"
+    ]
+  },
+  {
+    "base_category": "pompadour",
+    "face_shape": {
+      "oval": 0.9,
+      "round": 0.8,
+      "square": 0.8,
+      "rectangle": 0.9,
+      "diamond": 0.7,
+      "heart": 0.8,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.9,
+      "curly": 0.5,
+      "coily": 0.2
+    },
+    "density": {
+      "low": 0.3,
+      "medium": 0.7,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.5,
+        "3": 0.1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "maintenance": 0.8,
+    "effects": [
+      "bold",
+      "retro",
+      "voluminous",
+      "statement"
+    ]
+  },
+  {
+    "base_category": "fringe",
+    "face_shape": {
+      "oval": 0.8,
+      "round": 0.9,
+      "square": 0.9,
+      "rectangle": 0.9,
+      "diamond": 0.8,
+      "heart": 0.9,
+      "triangle": 0.7
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.8,
+      "curly": 0.7,
+      "coily": 0.5
+    },
+    "density": {
+      "low": 0.5,
+      "medium": 0.8,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.9,
+      "crown_thinning": 0,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.9,
+        "3": 0.7,
+        "4": 0.2,
+        "5": 0.1
+      }
+    },
+    "maintenance": 0.5,
+    "effects": [
+      "softening",
+      "youthful",
+      "stylish",
+      "hides forehead"
+    ]
+  },
+  {
+    "base_category": "slick_back",
+    "face_shape": {
+      "oval": 0.8,
+      "round": 0.6,
+      "square": 0.9,
+      "rectangle": 0.9,
+      "diamond": 0.8,
+      "heart": 0.7,
+      "triangle": 0.8
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.8,
+      "curly": 0.3,
+      "coily": 0.1
+    },
+    "density": {
+      "low": 0.4,
+      "medium": 0.8,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.3,
+        "3": 0.1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "maintenance": 0.6,
+    "effects": [
+      "polished",
+      "sleek",
+      "retro",
+      "sophisticated"
+    ]
+  },
+  {
+    "base_category": "mohawk",
+    "face_shape": {
+      "oval": 0.7,
+      "round": 0.8,
+      "square": 0.8,
+      "rectangle": 0.9,
+      "diamond": 0.7,
+      "heart": 0.7,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.8,
+      "wavy": 0.8,
+      "curly": 0.7,
+      "coily": 0.6
+    },
+    "density": {
+      "low": 0.4,
+      "medium": 0.7,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.4,
+        "3": 0.1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "maintenance": 0.8,
+    "effects": [
+      "bold",
+      "rebellious",
+      "edgy",
+      "statement"
+    ]
+  },
+  {
+    "base_category": "curtain",
+    "face_shape": {
+      "oval": 0.9,
+      "round": 0.8,
+      "square": 0.8,
+      "rectangle": 0.8,
+      "diamond": 0.7,
+      "heart": 0.7,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.8,
+      "wavy": 0.9,
+      "curly": 0.6,
+      "coily": 0.3
+    },
+    "density": {
+      "low": 0.5,
+      "medium": 0.8,
+      "high": 0.8
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.7,
+        "3": 0.3,
+        "4": 0.1,
+        "5": 0
+      }
+    },
+    "maintenance": 0.5,
+    "effects": [
+      "retro",
+      "framing",
+      "casual",
+      "youthful"
+    ]
+  },
+  {
+    "base_category": "mullet",
+    "face_shape": {
+      "oval": 0.7,
+      "round": 0.8,
+      "square": 0.7,
+      "rectangle": 0.8,
+      "diamond": 0.6,
+      "heart": 0.6,
+      "triangle": 0.7
+    },
+    "texture": {
+      "straight": 0.7,
+      "wavy": 0.9,
+      "curly": 0.8,
+      "coily": 0.6
+    },
+    "density": {
+      "low": 0.5,
+      "medium": 0.8,
+      "high": 0.8
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.6,
+        "3": 0.4,
+        "4": 0.2,
+        "5": 0.1
+      }
+    },
+    "maintenance": 0.6,
+    "effects": [
+      "retro",
+      "bold",
+      "playful",
+      "unconventional"
+    ]
+  },
+  {
+    "base_category": "afro",
+    "face_shape": {
+      "oval": 0.8,
+      "round": 0.7,
+      "square": 0.7,
+      "rectangle": 0.9,
+      "diamond": 0.6,
+      "heart": 0.6,
+      "triangle": 0.5
+    },
+    "texture": {
+      "straight": 0.1,
+      "wavy": 0.3,
+      "curly": 0.8,
+      "coily": 0.9
+    },
+    "density": {
+      "low": 0.3,
+      "medium": 0.7,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.9,
+      "crown_thinning": 0.9,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.9,
+        "3": 0.8,
+        "4": 0.6,
+        "5": 0.4
+      }
+    },
+    "maintenance": 0.7,
+    "effects": [
+      "voluminous",
+      "natural",
+      "expressive",
+      "cultural"
+    ]
+  },
+  {
+    "base_category": "dreadlocks",
+    "face_shape": {
+      "oval": 0.8,
+      "round": 0.7,
+      "square": 0.7,
+      "rectangle": 0.8,
+      "diamond": 0.6,
+      "heart": 0.6,
+      "triangle": 0.5
+    },
+    "texture": {
+      "straight": 0.4,
+      "wavy": 0.6,
+      "curly": 0.9,
+      "coily": 0.9
+    },
+    "density": {
+      "low": 0.4,
+      "medium": 0.8,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.9,
+      "crown_thinning": 0.9,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.9,
+        "3": 0.7,
+        "4": 0.5,
+        "5": 0.3
+      }
+    },
+    "maintenance": 0.9,
+    "effects": [
+      "unique",
+      "expressive",
+      "cultural",
+      "long-term"
+    ]
+  },
+  {
+    "base_category": "long_flow",
+    "face_shape": {
+      "oval": 0.9,
+      "round": 0.8,
+      "square": 0.9,
+      "rectangle": 0.8,
+      "diamond": 0.8,
+      "heart": 0.7,
+      "triangle": 0.7
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.9,
+      "curly": 0.8,
+      "coily": 0.4
+    },
+    "density": {
+      "low": 0.4,
+      "medium": 0.8,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.8,
+        "3": 0.5,
+        "4": 0.3,
+        "5": 0.2
+      }
+    },
+    "maintenance": 0.7,
+    "effects": [
+      "natural",
+      "relaxed",
+      "artistic",
+      "bohemian"
+    ]
+  },
+  {
+    "base_category": "skater",
+    "face_shape": {
+      "oval": 0.9,
+      "round": 0.8,
+      "square": 0.8,
+      "rectangle": 0.8,
+      "diamond": 0.7,
+      "heart": 0.7,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.8,
+      "wavy": 0.9,
+      "curly": 0.7,
+      "coily": 0.4
+    },
+    "density": {
+      "low": 0.5,
+      "medium": 0.8,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.7,
+        "3": 0.4,
+        "4": 0.1,
+        "5": 0
+      }
+    },
+    "maintenance": 0.4,
+    "effects": [
+      "casual",
+      "youthful",
+      "relaxed",
+      "messy"
+    ]
+  },
+  {
+    "base_category": "edgar",
+    "face_shape": {
+      "oval": 0.8,
+      "round": 0.9,
+      "square": 0.8,
+      "rectangle": 0.7,
+      "diamond": 0.7,
+      "heart": 0.9,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.8,
+      "curly": 0.6,
+      "coily": 0.4
+    },
+    "density": {
+      "low": 0.5,
+      "medium": 0.8,
+      "high": 0.9
+    },
+    "hair_loss": {
+      "receding_hairline": 0.9,
+      "crown_thinning": 0,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.9,
+        "3": 0.6,
+        "4": 0.2,
+        "5": 0.1
+      }
+    },
+    "maintenance": 0.7,
+    "effects": [
+      "bold",
+      "trendy",
+      "sharp",
+      "distinctive"
+    ]
+  },
+  {
+    "base_category": "side_part",
+    "face_shape": {
+      "oval": 0.9,
+      "round": 0.8,
+      "square": 0.9,
+      "rectangle": 0.9,
+      "diamond": 0.8,
+      "heart": 0.7,
+      "triangle": 0.7
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.9,
+      "curly": 0.6,
+      "coily": 0.3
+    },
+    "density": {
+      "low": 0.6,
+      "medium": 0.9,
+      "high": 0.8
+    },
+    "hair_loss": {
+      "receding_hairline": 0.8,
+      "crown_thinning": 0.8,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.8,
+        "3": 0.5,
+        "4": 0.2,
+        "5": 0.1
+      }
+    },
+    "maintenance": 0.6,
+    "effects": [
+      "classic",
+      "professional",
+      "neat",
+      "mature"
+    ]
+  },
+  {
+    "base_category": "business",
+    "face_shape": {
+      "oval": 0.9,
+      "round": 0.8,
+      "square": 0.9,
+      "rectangle": 0.8,
+      "diamond": 0.7,
+      "heart": 0.7,
+      "triangle": 0.7
+    },
+    "texture": {
+      "straight": 0.9,
+      "wavy": 0.8,
+      "curly": 0.6,
+      "coily": 0.4
+    },
+    "density": {
+      "low": 0.7,
+      "medium": 0.9,
+      "high": 0.8
+    },
+    "hair_loss": {
+      "receding_hairline": 0.8,
+      "crown_thinning": 0.8,
+      "norwood": {
+        "1": 0.9,
+        "2": 0.8,
+        "3": 0.4,
+        "4": 0.1,
+        "5": 0
+      }
+    },
+    "maintenance": 0.4,
+    "effects": [
+      "professional",
+      "conservative",
+      "tidy",
+      "reliable"
+    ]
+  },
+  {
+    "base_category": "shaved",
+    "face_shape": {
+      "oval": 0.7,
+      "round": 0.6,
+      "square": 0.7,
+      "rectangle": 0.6,
+      "diamond": 0.6,
+      "heart": 0.6,
+      "triangle": 0.5
+    },
+    "texture": {
+      "straight": 0.8,
+      "wavy": 0.8,
+      "curly": 0.8,
+      "coily": 0.8
+    },
+    "density": {
+      "low": 1.0,
+      "medium": 0.7,
+      "high": 0.5
+    },
+    "hair_loss": {
+      "receding_hairline": 1.0,
+      "crown_thinning": 1.0,
+      "norwood": {
+        "1": 0.5,
+        "2": 0.6,
+        "3": 0.8,
+        "4": 0.9,
+        "5": 1.0
+      }
+    },
+    "maintenance": 0.1,
+    "effects": [
+      "bold",
+      "minimal",
+      "confident",
+      "clean"
+    ]
+  },
+  {
+    "base_category": "other",
+    "face_shape": {
+      "oval": 0.7,
+      "round": 0.7,
+      "square": 0.7,
+      "rectangle": 0.7,
+      "diamond": 0.7,
+      "heart": 0.7,
+      "triangle": 0.6
+    },
+    "texture": {
+      "straight": 0.7,
+      "wavy": 0.7,
+      "curly": 0.7,
+      "coily": 0.7
+    },
+    "density": {
+      "low": 0.6,
+      "medium": 0.7,
+      "high": 0.7
+    },
+    "hair_loss": {
+      "receding_hairline": 0.6,
+      "crown_thinning": 0.6,
+      "norwood": {
+        "1": 0.8,
+        "2": 0.6,
+        "3": 0.4,
+        "4": 0.2,
+        "5": 0.1
+      }
+    },
+    "maintenance": 0.5,
+    "effects": [
+      "adaptable",
+      "versatile",
+      "flexible",
+      "customizable"
+    ]
+  }
+]
