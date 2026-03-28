@@ -1,0 +1,794 @@
+[
+  {
+    "hairstyle_id": "textured_fringe",
+    "base_category": "fringe",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650259+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "ivy_league",
+    "base_category": "crew",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650269+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "side_part",
+    "base_category": "side_part",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650273+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "tapered",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650276+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "side_swept_fringe",
+    "base_category": "fringe",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650279+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "spiky",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650281+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "high_and_tight",
+    "base_category": "crew",
+    "length_category": "ultra_short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650284+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "short_curly_cut",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650286+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "side_swept",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650289+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "business_cut",
+    "base_category": "business",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650291+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "scissor_cut",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650293+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "brushed_back_hair",
+    "base_category": "slick_back",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650296+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "upward_styled_cut_with_beard",
+    "base_category": "quiff",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650299+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "old_school_comb_over",
+    "base_category": "side_part",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650301+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "mini_mohawk_with_shaved_sides",
+    "base_category": "mohawk",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650303+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "voluminous_top_with_tapered_sides",
+    "base_category": "quiff",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650306+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "side_parted_slicked_back_style",
+    "base_category": "slick_back",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650308+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "volume_in_the_middle",
+    "base_category": "quiff",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650310+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "slicked_over_side_part",
+    "base_category": "side_part",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650312+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "clean_slicked_back_cut",
+    "base_category": "slick_back",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650315+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "taper_with_rounded_line_up",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650317+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "tapered_faux_hawk",
+    "base_category": "mohawk",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650319+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "shaved_side_comb_back",
+    "base_category": "undercut",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650322+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "textured_mohawk",
+    "base_category": "mohawk",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650325+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "brushed_back_medium_hair",
+    "base_category": "slick_back",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650328+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "platinum_ivy_league",
+    "base_category": "crew",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650330+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "gelled_spikes",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650333+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "hair_with_bleached_tips",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650335+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "slicked_back",
+    "base_category": "slick_back",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650337+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "wavy_shag",
+    "base_category": "other",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650340+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "messy_layered_hair",
+    "base_category": "other",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650342+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "bro_flow",
+    "base_category": "long_flow",
+    "length_category": "long",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650344+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "messy_textured_medium_cut",
+    "base_category": "other",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650347+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "angular_fringe",
+    "base_category": "fringe",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650349+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "faux_hawk",
+    "base_category": "mohawk",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650351+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "regulation_cut",
+    "base_category": "crew",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650353+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "curly_fringe",
+    "base_category": "fringe",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650355+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "mop_top",
+    "base_category": "other",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650358+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "choppy_fringe",
+    "base_category": "fringe",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650360+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "slicked_back_undercut",
+    "base_category": "undercut",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650362+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "ivy_league_cut",
+    "base_category": "crew",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650364+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "shaved_head",
+    "base_category": "shaved",
+    "length_category": "ultra_short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650366+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "close_cut",
+    "base_category": "buzz",
+    "length_category": "ultra_short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650370+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "short_hair_with_low_taper",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650372+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "clean_shave",
+    "base_category": "shaved",
+    "length_category": "ultra_short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650375+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "widows_peak_with_tapered_sides",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650377+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "long_and_wavy",
+    "base_category": "long_flow",
+    "length_category": "long",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650379+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "top_knot",
+    "base_category": "other",
+    "length_category": "long",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650382+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "brushed_up_curls",
+    "base_category": "quiff",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650384+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "wavy_and_side_swept",
+    "base_category": "side_part",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650386+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "slicked_back_with_undercut",
+    "base_category": "undercut",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650388+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "slick_back",
+    "base_category": "slick_back",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650390+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "side_parting",
+    "base_category": "side_part",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650393+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "shoulder_length",
+    "base_category": "long_flow",
+    "length_category": "long",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650395+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "side_fringe",
+    "base_category": "fringe",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650397+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "straight_fringe",
+    "base_category": "fringe",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650399+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "short_fringe",
+    "base_category": "fringe",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650401+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "long_fringe",
+    "base_category": "fringe",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650404+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "faux_hawk_fringe",
+    "base_category": "mohawk",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650406+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "flat_top",
+    "base_category": "crew",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650408+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "skater_short",
+    "base_category": "skater",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650410+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "skater_long",
+    "base_category": "skater",
+    "length_category": "long",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650412+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "skater_long_curl",
+    "base_category": "skater",
+    "length_category": "long",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650417+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "80s_skater",
+    "base_category": "skater",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650419+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "90s_skater",
+    "base_category": "skater",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650421+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "surfer_cut",
+    "base_category": "long_flow",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650424+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "mullet_mohawk",
+    "base_category": "mullet",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650426+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "spiky_taper",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650428+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "spiky_long",
+    "base_category": "other",
+    "length_category": "long",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650430+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "spiky_faux_hawk",
+    "base_category": "mohawk",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650433+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "single_length",
+    "base_category": "other",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650435+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "wavy_spiky",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650437+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "spiky_windswept",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650440+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "slick_back_undercut",
+    "base_category": "undercut",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650442+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "fringe_undercut",
+    "base_category": "undercut",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650444+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "curly_short",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650446+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "curly_long",
+    "base_category": "other",
+    "length_category": "long",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650448+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_refined_side_part",
+    "base_category": "side_part",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650451+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_flow",
+    "base_category": "long_flow",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650453+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_short_shag",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650456+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_center_part",
+    "base_category": "curtain",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650458+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_mod_cut",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650461+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_heartthrob",
+    "base_category": "other",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650464+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_curly_top_taper",
+    "base_category": "crop",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650466+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "textured_brush_forward",
+    "base_category": "crop",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650468+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "tousled_mid_length_cut",
+    "base_category": "other",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650470+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "mens_fringe",
+    "base_category": "fringe",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650472+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "add_a_beard_to_balance_out_your_hair_loss",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650474+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "hairpieces_and_hair_systems",
+    "base_category": "other",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650477+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "sleek_straight_hairline_for_afro_hair",
+    "base_category": "afro",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650479+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "modern_mohawk",
+    "base_category": "mohawk",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650481+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "slicked_back_styles",
+    "base_category": "slick_back",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650483+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "bleach_blonde",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650486+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_wolf_cut",
+    "base_category": "other",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650488+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_faux_hawk",
+    "base_category": "mohawk",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650490+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "centre_parting_with_curtain_fringe",
+    "base_category": "curtain",
+    "length_category": "medium",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650493+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "the_jude_law",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650495+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "combover",
+    "base_category": "side_part",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650497+00:00",
+    "pipeline_version": "v1.3.0"
+  },
+  {
+    "hairstyle_id": "tight_s",
+    "base_category": "other",
+    "length_category": "short",
+    "classification_source": "llm",
+    "classification_timestamp": "2026-02-20T16:39:22.650499+00:00",
+    "pipeline_version": "v1.3.0"
+  }
+]
