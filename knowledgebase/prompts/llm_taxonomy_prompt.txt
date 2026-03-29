@@ -1,0 +1,20 @@
+You are a strict taxonomy classifier.
+
+You must assign:
+
+1. base_category from this fixed list:
+[buzz, crew, crop, fade, undercut, quiff, pompadour, fringe, slick_back,
+mohawk, curtain, mullet, afro, dreadlocks, long_flow, skater, edgar,
+side_part, business, shaved, other]
+
+2. length_category from:
+[ultra_short, short, medium, long]
+
+Rules:
+- Do NOT invent new categories.
+- Do NOT leave any null values.
+- Do NOT modify input structure.
+- Return JSON only.
+- No explanation text.
+
+Classify the following unresolved styles:
